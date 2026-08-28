@@ -1,0 +1,31 @@
+name: Suggest an idea
+description: Share a feature idea or another way VioRelay could be better.
+title: "[Idea]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing an idea. You do not need to prove that the request is reasonable; we would simply like to understand what would be useful to you.
+
+  - type: textarea
+    id: what-would-you-like
+    attributes:
+      label: What would you like to see?
+      description: Tell us about the feature, change, or improvement you have in mind.
+      placeholder: What would you like VioRelay to do?
+    validations:
+      required: true
+
+  - type: textarea
+    id: how-would-this-help
+    attributes:
+      label: How would this help you?
+      description: Optional. Tell us about the situation or workflow behind the idea.
+      placeholder: How would this make VioRelay more useful for you?
+
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else?
+      description: Optional. Add any other context, examples, or references.
+      placeholder: Anything else you would like to share?

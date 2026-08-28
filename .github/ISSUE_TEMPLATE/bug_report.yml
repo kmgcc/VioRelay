@@ -1,0 +1,52 @@
+name: Report a problem
+description: Tell us what happened or what did not work as expected.
+title: "[Problem]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to tell us about this. A rough description is welcome; you do not need to have all the details figured out.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Tell us what you saw or what did not work as expected.
+      placeholder: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: If you know what you expected to happen, tell us here.
+      placeholder: What were you hoping would happen?
+
+  - type: input
+    id: viorelay-version
+    attributes:
+      label: VioRelay version
+      description: Optional. Add the version or build number if you know it.
+      placeholder: For example, 1.0.0
+
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      description: Optional.
+      placeholder: For example, macOS 15.6
+
+  - type: input
+    id: ios-version
+    attributes:
+      label: iOS version
+      description: Optional.
+      placeholder: For example, iOS 18.6
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Screenshots, logs, or anything else
+      description: Optional. Add anything that might help, if you have it.
+      placeholder: You can drag files here or add any other context.
