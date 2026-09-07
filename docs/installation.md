@@ -2,7 +2,7 @@
 
 ## macOS
 
-当前版本为 VioRelay 1.3（Build 13）。[下载最新版 macOS 安装包](https://github.com/kmgcc/VioRelay/releases/download/1.3/VioRelay_1.3_13.dmg)，
+当前版本为 VioRelay 1.3（Build 14）。[下载最新版 macOS 安装包](https://github.com/kmgcc/VioRelay/releases/download/1.3/VioRelay_1.3_14.dmg)，
 也可以在 [GitHub Releases](https://github.com/kmgcc/VioRelay/releases) 查看版本记录和校验文件。
 
 打开下载的 DMG，将 VioRelay 拖入 Applications 后启动即可。macOS 更新会通过
@@ -20,7 +20,7 @@ iOS 端的分发方式与设置流程，在正式发布渠道确定后会更新�
 
 ## macOS
 
-The current version is VioRelay 1.3 (Build 13). [Download the latest macOS installer](https://github.com/kmgcc/VioRelay/releases/download/1.3/VioRelay_1.3_13.dmg),
+The current version is VioRelay 1.3 (Build 14). [Download the latest macOS installer](https://github.com/kmgcc/VioRelay/releases/download/1.3/VioRelay_1.3_14.dmg),
 or visit [GitHub Releases](https://github.com/kmgcc/VioRelay/releases) for release notes and checksums.
 
 Open the downloaded DMG, drag VioRelay to Applications, and launch it. Future macOS
