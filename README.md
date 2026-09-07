@@ -8,7 +8,11 @@ VioRelay 在 Apple 设备之间传递低延迟的高质量音频——打开 iPh
 
 macOS 版本通过 [GitHub Releases](https://github.com/kmgcc/VioRelay/releases) 分发。
 
-**即将发布。** 首个公开版本准备就绪后，正式下载地址会出现在这里。
+当前版本：**VioRelay 1.3（Build 13）**
+
+[下载最新版 macOS 安装包](https://github.com/kmgcc/VioRelay/releases/download/1.3/VioRelay_1.3_13.dmg)
+
+完整版本记录和校验文件见 [GitHub Releases](https://github.com/kmgcc/VioRelay/releases)。
 
 iOS 端将通过 App Store 或 TestFlight 等 Apple 官方渠道发布，上架后会补上链接。
 
@@ -50,7 +54,11 @@ VioRelay streams low-latency, high-quality audio across your Apple devices. Open
 
 The macOS version is distributed through [GitHub Releases](https://github.com/kmgcc/VioRelay/releases).
 
-**Coming soon.** Official macOS downloads will appear here once the first public release is ready.
+Current version: **VioRelay 1.3 (Build 13)**
+
+[Download the latest macOS installer](https://github.com/kmgcc/VioRelay/releases/download/1.3/VioRelay_1.3_13.dmg)
+
+See [GitHub Releases](https://github.com/kmgcc/VioRelay/releases) for release notes and checksums.
 
 The iOS app will be available through official Apple channels — App Store or TestFlight. Links will be added when they go live.
 
